@@ -29,8 +29,8 @@
 - Pyannote - [SD 3.1](https://huggingface.co/pyannote/speaker-diarization-3.1)
 - NVIDIA TitaNet-Large (en-US): [Link](https://huggingface.co/nvidia/speakerverification_en_titanet_large)
 
-# todo: create new directory for previous notes
-# attach:
-#   - speaker diarization notes
-#   - audio clipper code-base
-#   - audio labelling codes
+[//]: # (todo: create new directory for previous notes)
+[//]: # (# attach:)
+[//]: # (#   - [x] speaker diarization notes)
+[//]: # (#   - audio clipper code-base)
+[//]: # (#   - audio labelling codes)
