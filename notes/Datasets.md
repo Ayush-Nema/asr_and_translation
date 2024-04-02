@@ -1,0 +1,18 @@
+Curation of popular datasets used for training and evaluation for Speaker Diarization tasks. #Datasets 
+
+| Dataset          | Details                                                                                                                                                                                     | Link                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| `CALLHOME`       | CALLHOME American English Speech was developed by the Linguistic Data Consortium (LDC) and consists of 120 unscripted 30-minute telephone conversations between native speakers of English. | https://catalog.ldc.upenn.edu/LDC97S42 |
+| `DIHARD`         |                                                                                                                                                                                             |                                        |
+| `DIHARD II`      |                                                                                                                                                                                             |                                        |
+| `NIST-SRE 2000`    |                                                                                                                                                                                             |                                        |
+| `AMI Lapel`        |                                                                                                                                                                                             |                                        |
+| `AMI MixHeadset`   |                                                                                                                                                                                             |                                        |
+| `CH109`            |                                                                                                                                                                                             |                                        |
+| `ETAPE`            |                                                                                                                                                                                             |                                        |
+| `AMI`              |                                                                                                                                                                                             |                                        |
+| `Hub'500 CallHome` |                                                                                                                                                                                             |                                        |
+| `CALLHOME-109`     |                                                                                                                                                                                             |                                        |
+|                  |                                                                                                                                                                                             |                                        |
+
+More datasets are present here: https://github.com/jim-schwoebel/voice_datasets
