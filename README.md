@@ -28,8 +28,11 @@
 ## Models 
 - Pyannote - [SD 3.1](https://huggingface.co/pyannote/speaker-diarization-3.1)
 - NVIDIA TitaNet-Large (en-US): [Link](https://huggingface.co/nvidia/speakerverification_en_titanet_large)
+- Diart: 
+  - [Link1](https://github.com/juanmc2005/diart)
+  - [Link2](https://modelzoo.co/model/streamingspeakerdiarization)
 
-[//]: # (todo: create new directory for previous notes)
+
 [//]: # (# attach:)
 [//]: # (#   - [x] speaker diarization notes)
 [//]: # (#   - audio clipper code-base)
