@@ -37,3 +37,5 @@
 [//]: # (#   - [x] speaker diarization notes)
 [//]: # (#   - audio clipper code-base)
 [//]: # (#   - audio labelling codes)
+[//]: # (#   - SD and ASR pipeline)
+
