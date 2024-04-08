@@ -32,10 +32,9 @@
   - [Link1](https://github.com/juanmc2005/diart)
   - [Link2](https://modelzoo.co/model/streamingspeakerdiarization)
 
-
-[//]: # (# attach:)
-[//]: # (#   - [x] speaker diarization notes)
-[//]: # (#   - audio clipper code-base)
-[//]: # (#   - audio labelling codes)
-[//]: # (#   - SD and ASR pipeline)
+[//]: # (attach:)
+[//]: # (   - [x] speaker diarization notes)
+[//]: # (   - audio clipper code-base)
+[//]: # (   - audio labelling codes)
+[//]: # (   - SD and ASR pipeline)
 
